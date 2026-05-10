@@ -1,0 +1,17 @@
+{
+  "applicationName": {
+    "message": "Feature Switch"
+  },
+  "cookies": {
+    "message": "Cookies"
+  },
+  "description": {
+    "message": "Webブラウザの機能を切り替えます"
+  },
+  "images": {
+    "message": "Images"
+  },
+  "javascript": {
+    "message": "JavaScript"
+  }
+}

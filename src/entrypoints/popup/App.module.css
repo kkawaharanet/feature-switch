@@ -1,0 +1,21 @@
+.container {
+  width: 240px;
+  padding: 16px;
+}
+
+.list {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  gap: 4px;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  label {
+    flex: 1;
+  }
+}
