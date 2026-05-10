@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 48">
+  <g transform="scale(0.375)">
+    <rect width="128" height="128" rx="24" fill="#f5f5f5"/>
+    <path d="M 46 28 L 18 64 L 46 100" stroke="#1f1f1f" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <path d="M 82 28 L 110 64 L 82 100" stroke="#1f1f1f" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <line x1="16" y1="16" x2="112" y2="112" stroke="#0b57d0" stroke-width="11" stroke-linecap="round"/>
+  </g>
+  <text x="60" y="27" font-family="sans-serif" font-size="28" font-weight="600" fill="#1f1f1f" dominant-baseline="middle">Feature Switch</text>
+</svg>
