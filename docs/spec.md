@@ -1,7 +1,5 @@
 # 仕様書
 
-DisablerはWebブラウザの機能を無効化するChrome拡張機能である。
-
 ## 要件
 
 DisablerはWebブラウザの次の機能を無効化する。
